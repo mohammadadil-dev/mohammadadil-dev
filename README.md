@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/adil-profile.png" alt="Mohammad Adil Banner" width="100%">
+</p>
+
 Hi, I'm **Mohammad Adil** 👋
 
 **FinTech Backend Lead | Java Architect | AI Engineer**
