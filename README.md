@@ -1,6 +1,6 @@
-Hi, I'm Mohammad Adil 👋
+Hi, I'm **Mohammad Adil** 👋
 
-FinTech Backend Lead | Java Architect | AI Engineer
+**FinTech Backend Lead | Java Architect | AI Engineer**
 
 I am a backend engineering leader with 9+ years of experience building scalable, event-driven financial platforms and Loan Origination Systems (LOS) within the Saudi Arabian fintech ecosystem.
 
