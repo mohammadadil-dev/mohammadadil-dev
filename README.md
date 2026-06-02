@@ -6,64 +6,64 @@ I am a backend engineering leader with 9+ years of experience building scalable,
 
 🚀 **What I Do**
 
-Design and build large-scale microservices using Java & Spring Boot
+    Design and build large-scale microservices using Java & Spring Boot
 
-Architect event-driven systems using Apache Kafka
+    Architect event-driven systems using Apache Kafka
 
-Lead Loan Origination System (LOS) development
+    Lead Loan Origination System (LOS) development
 
-Integrate financial services, including Nafath, SIMAH, Lean, LMS, and payment gateways
+    Integrate financial services, including Nafath, SIMAH, Lean, LMS, and payment gateways
 
-Build AI-powered financial assistants using Spring AI, OpenAI, RAG, and Vector Databases
+    Build AI-powered financial assistants using Spring AI, OpenAI, RAG, and Vector Databases
 
 🏦 **FinTech Domain Expertise**
 
-Loan Origination Systems (LOS)
+    Loan Origination Systems (LOS)
 
-Eligibility & Risk Assessment
+    Eligibility & Risk Assessment
 
-Contract Lifecycle Management
+    Contract Lifecycle Management
 
-Customer Onboarding & Verification
+    Customer Onboarding & Verification
 
-Loan Disbursement Workflows
+    Loan Disbursement Workflows
 
-SAMA Compliance
+    SAMA Compliance
 
-Payment Integrations
+    Payment Integrations
 
 🤖 **AI & GenAI**
 
-Spring AI
+    Spring AI
 
-OpenAI
+    OpenAI
 
-Retrieval-Augmented Generation (RAG)
+    Retrieval-Augmented Generation (RAG)
 
-Pinecone Vector Database
+    Pinecone Vector Database
 
-Ollama
+    Ollama
 
-AI Agents
+    AI Agents
 
-Financial AI Assistants
+    Financial AI Assistants
 
 🛠️ **Tech Stack**
 
-Java • Spring Boot • Microservices • Kafka • PostgreSQL • Redis • Keycloak • Docker • Kubernetes • AWS • OCI • ELK • Jenkins • Spring AI
+    Java • Spring Boot • Microservices • Kafka • PostgreSQL • Redis • Keycloak • Docker • Kubernetes • AWS • OCI • ELK • Jenkins • Spring AI
 
 📌 **Featured Projects**
 
-Financial AI Assistant
+    Financial AI Assistant
 
-Event-Driven Loan Processing Platform
+    Event-Driven Loan Processing Platform
 
-Kafka Payment Processing Engine
+    Kafka Payment Processing Engine
 
-Spring AI RAG Applications
+    Spring AI RAG Applications
 
-FinTech Microservices Architecture
+    FinTech Microservices Architecture
 
 📫 **Connect With Me**
 
-LinkedIn: https://www.linkedin.com/in/adil-azmi/
+    LinkedIn: https://www.linkedin.com/in/adil-azmi/
