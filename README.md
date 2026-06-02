@@ -70,4 +70,4 @@ I am a backend engineering leader with 9+ years of experience building scalable,
 
 📫 **Connect With Me**
 
-    LinkedIn: https://www.linkedin.com/in/adil-azmi/
+    LinkedIn: 'https://www.linkedin.com/in/adil-azmi/
